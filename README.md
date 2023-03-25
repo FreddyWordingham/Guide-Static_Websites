@@ -15,3 +15,4 @@ How to build a static website, using HTML, CSS, and JavaScript.
 -   [HTML Inputs](./chapters/HTML_inputs/README.md)
 -   [CSS Selectors](./chapters/CSS_selectors/README.md)
 -   [CSS Styles](./chapters/CSS_styles/README.md)
+-   [GitHub Pages](./chapters/GitHub_pages/README.md)

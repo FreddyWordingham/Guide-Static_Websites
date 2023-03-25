@@ -63,7 +63,7 @@ git push
 
 ## Hosting
 
-Back on GitHub.com, go to the `settings` tab of the repository, and then to the `pages` tab on the left hand side:
+Back on GitHub.com, go to the `settings` tab of the repository, and then to the `pages` tab on the left-hand side:
 
 ![New Repository](./images/pages_settings.png)
 
