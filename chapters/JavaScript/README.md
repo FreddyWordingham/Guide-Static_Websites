@@ -2,12 +2,12 @@
 
 JavaScript is a high-level, interpreted programming language that is used to create interactive and dynamic websites.
 
-JavaScript is primarily used for client-side web development, meaning that it runs on the user's browser and is responsible for handling user interactions and updating the page in real time.
+JavaScript is primarily used for client-side web development, meaning that it runs on the user's browser and is responsible for handling user interactions and updating the page in real-time.
 It is also used for server-side web development through the use of platforms like Node.js.
 
 ## What is JavaScript?
 
-A simple `JavaScript` program might look like this:
+A simple JavaScript program might look like this:
 
 ```js
 function say_hello() {
