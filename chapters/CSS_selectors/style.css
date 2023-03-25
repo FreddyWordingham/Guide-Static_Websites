@@ -1,0 +1,23 @@
+* {
+    color: black;
+}
+
+h1 {
+    color: green;
+}
+
+#id_selector {
+    color: orange;
+}
+
+.class_selector {
+    color: purple;
+}
+
+[my-custom-attribute] {
+    color: red;
+}
+
+[my-custom-attribute="something_else"] {
+    color: blue;
+}
