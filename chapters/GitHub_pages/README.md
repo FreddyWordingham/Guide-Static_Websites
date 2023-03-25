@@ -70,3 +70,7 @@ Back on GitHub.com, go to the `settings` tab of the repository, and then to the 
 We'll publish from the `main` branch and (as our `index.html` file is in the top-level directory of our project) the `root` folder.
 
 After a few minutes, our website will be hosted at something similar to https://FreddyWordingham.github.io/MyStaticWebsite/.
+
+## Return
+
+[Return to the top-level README](./../../README.md)
