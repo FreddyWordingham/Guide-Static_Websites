@@ -48,6 +48,7 @@ We can save the code in the snippet above into a file called [`style.css`](./sty
 ## Example
 
 Now, if we open up the file [`index.html`](./index.html) in our browser, we should see the rendered web page with styling applied.
+(Button still does nothing.)
 
 ## Return
 
