@@ -4,7 +4,7 @@ HTML stands for **H**yper**T**ext **M**arkup **L**anguage.
 It is a declarative language, meaning that it simply describes something, rather than instructing the computer how to do something.
 It is the foundation of all websites and is used to structure the page.
 
-## What is it?
+## What is HTML?
 
 A simple HTML document might look like this:
 
