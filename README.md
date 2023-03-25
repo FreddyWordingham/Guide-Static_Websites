@@ -1,12 +1,12 @@
 # Static Websites
 
-<!-- <div align="center">
-    <img src="todo.png" alt="Website">
-</div> -->
+ <div align="center">
+    <img src="./images/logo.png" alt="Global communications" width="200">
+</div>
 
 How to build a static website, using HTML, CSS, and JavaScript.
 
-## Table of Contents
+## Chapters
 
 -   [HTML - Structure](./chapters/HTML/README.md)
 -   [CSS - Styling](./chapters/CSS/README.md)
