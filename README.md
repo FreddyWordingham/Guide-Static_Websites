@@ -1,7 +1,7 @@
 # Static Websites
 
  <div align="center">
-    <img src="./images/logo.png" alt="Global communications" width="200">
+    <img src="./images/logo.svg" alt="Global communications" width=200>
 </div>
 
 How to build a static website, using HTML, CSS, and JavaScript.
