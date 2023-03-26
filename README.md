@@ -8,11 +8,11 @@ How to build a static website, using HTML, CSS, and JavaScript.
 
 ## Chapters
 
--   [HTML - Structure](./chapters/HTML/README.md)
--   [CSS - Styling](./chapters/CSS/README.md)
--   [JavaScript - Interactivity](./chapters/JavaScript/README.md)
--   [HTML Tags](./chapters/HTML_tags/README.md)
--   [HTML Inputs](./chapters/HTML_inputs/README.md)
--   [CSS Selectors](./chapters/CSS_selectors/README.md)
--   [CSS Styles](./chapters/CSS_styles/README.md)
--   [GitHub Pages](./chapters/GitHub_pages/README.md)
+-   [0 HTML - Structure](./chapters/0-HTML/README.md)
+-   [1 CSS - Styling](./chapters/1-CSS/README.md)
+-   [2 JavaScript - Interactivity](./chapters/2-JavaScript/README.md)
+-   [3 HTML Tags](./chapters/3-HTML_tags/README.md)
+-   [4 HTML Inputs](./chapters/4-HTML_inputs/README.md)
+-   [5 CSS Selectors](./chapters/5-CSS_selectors/README.md)
+-   [6 CSS Styles](./chapters/6-CSS_styles/README.md)
+-   [7 GitHub Pages](./chapters/7-GitHub_pages/README.md)
